@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkewat72/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/surajkewat72/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 <!---LeetCode Topics End-->
