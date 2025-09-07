@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/surajkewat72/Leetcode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkewat72/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/surajkewat72/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/surajkewat72/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surajkewat72/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/surajkewat72/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/surajkewat72/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/surajkewat72/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/surajkewat72/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surajkewat72/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/surajkewat72/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
