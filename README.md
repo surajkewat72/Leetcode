@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surajkewat72/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/surajkewat72/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/surajkewat72/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/surajkewat72/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/surajkewat72/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Memoization
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/surajkewat72/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/surajkewat72/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
