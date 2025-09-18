@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkewat72/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/surajkewat72/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/surajkewat72/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/surajkewat72/Leetcode/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/surajkewat72/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/surajkewat72/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/surajkewat72/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/surajkewat72/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surajkewat72/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -166,8 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/surajkewat72/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/surajkewat72/Leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/surajkewat72/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/surajkewat72/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
