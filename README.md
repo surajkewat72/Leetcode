@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/surajkewat72/Leetcode/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkewat72/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/surajkewat72/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/surajkewat72/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1006-vowel-spellchecker](https://github.com/surajkewat72/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/surajkewat72/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surajkewat72/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkewat72/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/surajkewat72/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/surajkewat72/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/surajkewat72/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surajkewat72/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/surajkewat72/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/surajkewat72/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/surajkewat72/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/surajkewat72/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2481-strictly-palindromic-number](https://github.com/surajkewat72/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
@@ -202,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/surajkewat72/Leetcode/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/surajkewat72/Leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
