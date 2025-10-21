@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/surajkewat72/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/surajkewat72/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/surajkewat72/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/surajkewat72/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1006-vowel-spellchecker](https://github.com/surajkewat72/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/surajkewat72/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/surajkewat72/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/surajkewat72/Leetcode/tree/master/0120-triangle) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/surajkewat72/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/surajkewat72/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/surajkewat72/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/surajkewat72/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/surajkewat72/Leetcode/tree/master/0078-subsets) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/surajkewat72/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/surajkewat72/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/surajkewat72/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/surajkewat72/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
