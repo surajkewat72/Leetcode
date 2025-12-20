@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/surajkewat72/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/surajkewat72/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/surajkewat72/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0944-delete-columns-to-make-sorted](https://github.com/surajkewat72/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/surajkewat72/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/surajkewat72/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/surajkewat72/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/surajkewat72/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/surajkewat72/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/surajkewat72/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/surajkewat72/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/surajkewat72/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/surajkewat72/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/surajkewat72/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
