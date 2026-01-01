@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/surajkewat72/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/surajkewat72/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/surajkewat72/Leetcode/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/surajkewat72/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/surajkewat72/Leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/surajkewat72/Leetcode/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkewat72/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/surajkewat72/Leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/surajkewat72/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/surajkewat72/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/surajkewat72/Leetcode/tree/master/0840-magic-squares-in-grid) |
