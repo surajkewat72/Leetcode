@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/surajkewat72/Leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/surajkewat72/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/surajkewat72/Leetcode/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/surajkewat72/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/surajkewat72/Leetcode/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajkewat72/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/surajkewat72/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/surajkewat72/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/surajkewat72/Leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/surajkewat72/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/surajkewat72/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/surajkewat72/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/surajkewat72/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/surajkewat72/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/surajkewat72/Leetcode/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/surajkewat72/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/surajkewat72/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/surajkewat72/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/surajkewat72/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/surajkewat72/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/surajkewat72/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/surajkewat72/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/surajkewat72/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/surajkewat72/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
